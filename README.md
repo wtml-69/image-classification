@@ -6,6 +6,7 @@ Tensoflow Version: 2.10.0
 打開 Anaconda Prompt，依序執行
 
 1. 建立環境
+
 conda create -n tf210_env python=3.10 -y
 
 2. NumPy 2.0、TFDS 版本不容，以及缺少畫圖和進度條套件的問題，可以在同一個 Anaconda Prompt 下一次輸入
