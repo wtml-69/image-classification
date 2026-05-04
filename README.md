@@ -1,7 +1,7 @@
 # image-classification
 Image classification comparing CNN, MobileNetV2, and EfficientNetB0 on Imagenette dataset.
 
------------- 前置作業 ------------
+------------------------ 前置作業 ------------------------ 
 Tensoflow Version: 2.10.0
 打開 Anaconda Prompt，依序執行
 
